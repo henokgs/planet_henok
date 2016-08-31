@@ -1,1 +1,2 @@
 Once upon a time I used to know how to script.
+Let's see how this change is going to be shown in Git Bash.
